@@ -6,11 +6,13 @@ Dynamic filtering and slicers for multi-faceted analysis
 Drill-down capability to explore specific segments or timeframes
 Clean, intuitive layout optimized for clarity and usability
 Responsive visualizations built with DAX and Power Query for real-time interaction
+
 📊 Tools & Technologies Used
 Power BI Desktop
 Power Query for data transformation
 DAX for measures and calculated fields
 Excel / CSV as data source
+
 📈 Insights Generated
 Identified key trends and inconsistencies in iteration performance across different teams and demographics
 Uncovered hidden correlations between iteration outcomes and organizational structure
